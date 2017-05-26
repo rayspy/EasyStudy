@@ -1,3 +1,3 @@
 # EasyStudy
-[EasyCsharp](EasyCsharp/ReadMe.md)
-[EasyJava](EasyJava/ReadMe.md)
+1. [EasyCsharp](EasyCsharp/ReadMe.md)
+2. [EasyJava](EasyJava/ReadMe.md)
